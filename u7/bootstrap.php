@@ -1,3 +1,3 @@
 <?php
 
-$URL = 'http://localhost/uzdaviniai/u7/';
+$URL = 'http://localhost/uzdaviniai/php%20exercises/u7/';
